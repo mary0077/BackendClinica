@@ -1,4 +1,4 @@
-<h1 align="center"> PsiqueVirtual - Saúde Mental </h1>
+<h1 align="center"> PsiqueVirtual - Clínica Psicológica</h1>
 
 # Intruções para utilizar o projeto
 - Clone o repositorio para a sua máquina utilizando o git clone 
